@@ -84,7 +84,7 @@ productionDeployment:
         space: 'Space-Dev'
         appName: 'cloud-sf-extension-cap-sample'
         apiEndpoint: 'https://api.cf.eu10.hana.ondemand.com'
-        credentialsId: 'C5287080'        
+        credentialsId: 'lakshmiglobal'        
 
   # This exclude is required for the example project to be successful in the pipeline
   # Remove it when you have added your first test
